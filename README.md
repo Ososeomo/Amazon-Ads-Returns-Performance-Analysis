@@ -18,9 +18,8 @@ Analyzed keyword performance from Amazon ad campaigns and investigated product r
 |----------|-------------|
 | `Candidate_Search_Term_Report TEST.xlsx` | Raw data on search terms, including impressions, clicks, sales, ROAS, and ACoS. |
 | `Candidate_Return_Report analysis FILE(favour).xlsx` | Raw return data with SKUs, sizes, and return reasons. |
-| `Amazon Ads & Returns Analysis – Summary Report.docx` | Final written analysis, insights, and recommendations. |
 
-Organize these into:
+Organized these into:
 - /raw_data/ → Original Excel files  
 - /final_analysis/ → Word document or PDF with summary  
 
